@@ -58,7 +58,6 @@ public class TestBase  {
                 new Object[]{"chrome", "53.0", "OS X 10.10"},
                 new Object[]{"chrome", "50.0", "OS X 10.10"},
                 new Object[]{"chrome", "47.0", "OS X 10.10"},
-                new Object[]{"internet explorer", "11.0", "Linux"},
                 new Object[]{"firefox", "latest-1", "Windows 7"},
         };
     }
