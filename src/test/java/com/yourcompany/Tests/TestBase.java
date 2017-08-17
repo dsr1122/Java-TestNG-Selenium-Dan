@@ -23,7 +23,7 @@ import java.rmi.UnexpectedException;
  * Simple TestNG test which demonstrates being instantiated via a DataProvider in order to supply multiple browser combinations.
  *
  * @author Neil Manvar
- * change demo
+ * change demo 2
  */
 public class TestBase  {
 
