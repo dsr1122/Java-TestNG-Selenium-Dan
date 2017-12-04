@@ -22,7 +22,7 @@ public class FollowLinkTest extends TestBase {
      * @throws InvalidElementStateException
      */
     @Test(dataProvider = "hardCodedBrowsers")
-    public void verifyLinkTest(String browser, String version, String os, Method method)
+    public void verifyLinkTestVSTS(String browser, String version, String os, Method method)
             throws MalformedURLException, InvalidElementStateException, UnexpectedException {
 
         //create webdriver session
