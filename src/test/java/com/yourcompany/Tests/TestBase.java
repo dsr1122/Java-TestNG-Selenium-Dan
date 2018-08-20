@@ -103,7 +103,7 @@ public class TestBase  {
         capabilities.setCapability(CapabilityType.PLATFORM, os);
         capabilities.setCapability("name", methodName);
         capabilities.setCapability("extendedDebugging","true");
-        capabilities.setCapability("_recordMp4","True");
+        //capabilities.setCapability("_recordMp4","True");
         
 
         if (buildTag != null) {
